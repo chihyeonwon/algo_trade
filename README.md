@@ -1,2 +1,1 @@
-# Invest_auto
-한국투자증권 api를 이용한 주식투자 자동화
+![image](https://github.com/user-attachments/assets/c3ab7c46-e70b-4dc8-8c1f-3c98367655ea)
